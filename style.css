@@ -1,0 +1,83 @@
+#title{
+    background-color:#EEEEEE;
+   
+}
+
+h1{
+
+    font-family: 'Varela Round', sans-serif;
+    
+}
+
+h2,h3{
+    font-family: 'Varela Round', sans-serif;
+    line-height: 1.5;
+    color: #393E46;
+}
+
+p{
+    font-family: 'Varela Round', sans-serif;
+    line-height: 1.5;
+    color: #393E46;
+}
+
+.headline{
+    position: relative;
+    top: 40% ;
+    left: 5%;
+    
+}
+
+.nav-item{
+    margin: 20px;
+}
+
+.image-button {
+    border: none;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+   
+}
+
+.image-button :hover{
+
+    background-image: linear-gradient(#526D82 , #9DB2BF);
+    cursor: pointer;
+    border-radius: 20%;
+
+}
+
+#features{
+    text-align: center;
+}
+
+
+#app{
+    background-color:#EEEEEE;
+    text-align: center;
+
+}
+
+#phone{
+    transform: rotate(15deg);
+}
+
+#test{
+    text-align: center;
+    margin: 10%;
+    
+}
+
+.tag{
+    font-size: medium;
+}
+
+#pricing{
+    text-align: center;
+    background-color: #EEEEEE;
+    
+}
+
