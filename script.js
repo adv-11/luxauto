@@ -13,7 +13,7 @@ function saveUserData() {
   localStorage.setItem("userData", JSON.stringify(userData));
 
   // Display a message to the user
-  document.getElementById("userDataDisplay").innerHTML = "User data saved!";
+  document.getElementById("userDataDisplay").innerHTML = "Enquiry Received !!";
 }
 
 // Check if user data is already saved and display it
